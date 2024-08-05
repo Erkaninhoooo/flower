@@ -551,7 +551,7 @@ body {
 
 @media screen and (max-width: 767px) {
     .flower {
-        zoom: 2.5;
+        zoom: 1.7;
           margin-bottom: 30px;
     }
     .message {
