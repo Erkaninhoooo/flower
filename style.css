@@ -551,6 +551,7 @@ body {
 @media screen and (max-width: 767px) {
     .flower {
         zoom: 1.5;
+          margin-bottom: 2rem;
     }
     .message {
         position: absolute; /* Entfernt die feste Positionierung */
