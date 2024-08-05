@@ -554,9 +554,12 @@ body {
         zoom: 1.7;
           margin-bottom: 30px;
     }
+
+     .body{
+        position: fixed;
+    }
     .message {
         position: absolute; /* Entfernt die feste Positionierung */
-        top: 20%;
         left: auto;
         /* Entfernt die obere Positionierung */
         transform: none; /* Entfernt die Transformation */
