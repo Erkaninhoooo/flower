@@ -561,6 +561,7 @@ body {
     .message {
         position: absolute; /* Entfernt die feste Positionierung */
         left: auto;
+        top: 10%;
         /* Entfernt die obere Positionierung */
         transform: none; /* Entfernt die Transformation */
         font-size: 1.2em; /* Kleinere Schriftgröße für mobile Geräte */
